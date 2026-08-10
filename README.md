@@ -1,4 +1,4 @@
-<!-- ===================== HEADER / COSMIC BANNER ===================== -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1026,25:1B1F3B,50:3A0CA3,75:7209B7,100:F72585&text=Welcome%20to%20My%20Universe%20🌌&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=60&descSize=18" />
@@ -15,35 +15,33 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <a href="https://github.com/Wyhrdev123100?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Wyhrdev123100">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/Wyhrdev123100?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Explore%20Now-3A86FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🌠 About Me
 
 <img align="right" alt="space-coder" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ```javascript
 const developer = {
-  name: "YOUR_NAME",
-  username: "YOUR_USERNAME",
+  name: "Wyhrdev123100",
+  username: "Wyhrdev123100",
   location: "Vietnam 🇻🇳",
   role: "Full Stack Developer",
-  portfolio: "https://your-portfolio.com",
-  email: "your.email@gmail.com",
+  portfolio: "https://qhvn.vercel.app/",
+  email: "yesyes8888@gmail.com",
 
   code: [
-    "JavaScript", "TypeScript", "Python",
-    "Java", "PHP", "C#"
+    "Python", "TypeScript",
   ],
 
   technologies: {
@@ -61,16 +59,11 @@ const developer = {
 
 <br clear="right"/>
 
----
-
-## 🪐 Featured Planets (Projects)
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌍 Project Earth
-**A full-stack e-commerce platform**
 
 Built with Next.js, NestJS, and PostgreSQL. Handles auth, payments, and real-time inventory sync.
 
@@ -81,9 +74,6 @@ Built with Next.js, NestJS, and PostgreSQL. Handles auth, payments, and real-tim
 
 </td>
 <td width="50%">
-
-### 🪐 Project Saturn
-**A real-time collaboration tool**
 
 WebSocket-based document editor with presence indicators and conflict resolution.
 
@@ -97,9 +87,6 @@ WebSocket-based document editor with presence indicators and conflict resolution
 <tr>
 <td width="50%">
 
-### ☄️ Project Comet
-**A CLI dev-tooling suite**
-
 Scaffolds projects, manages env configs, and automates release notes.
 
 `Node.js` `TypeScript` `Commander.js`
@@ -109,9 +96,6 @@ Scaffolds projects, manages env configs, and automates release notes.
 
 </td>
 <td width="50%">
-
-### 🌌 Project Nebula
-**A personal analytics dashboard**
 
 Aggregates data from multiple APIs into a single visual dashboard with custom charts.
 
@@ -126,8 +110,6 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 
 ---
 
-## 🛰️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,nestjs,python,java,php,laravel,csharp,mysql,postgres,mongodb,redis,docker,nginx,git,github,linux,vercel,firebase,aws&theme=dark&perline=13" />
 </p>
@@ -136,7 +118,6 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 <summary><b>📡 Full stack breakdown</b></summary>
 <br>
 
-**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -145,28 +126,28 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Frontend**
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend**
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Database**
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Cloud**
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -179,7 +160,7 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 
 ---
 
-## 📊 GitHub Orbit (Stats)
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=F72585&text_color=c9d1d9" />
@@ -200,7 +181,7 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 
 ---
 
-## 🌌 Mission Log (Currently)
+
 
 ```yaml
 🔭 Exploring:     Distributed systems & event-driven architecture
@@ -226,34 +207,21 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 
 ---
 
-## 📡 Signal (Connect)
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://qhvn.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD">
+  <a href="https://discord.com/users/xhr.">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- ===================== FOOTER / COSMIC BANNER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F72585,25:7209B7,50:3A0CA3,75:1B1F3B,100:0B1026&section=footer&animation=twinkling" />
 </p>
 
 <p align="center">
-  <i>⭐ From YOUR_USERNAME's Galaxy — thanks for stopping by</i>
+  <i>⭐ From Wyhrdev123100's — thanks for stopping by</i>
 </p>
