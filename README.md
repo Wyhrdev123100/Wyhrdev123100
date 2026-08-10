@@ -163,7 +163,7 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=F72585&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyhrdev123100&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=F72585&text_color=c9d1d9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=c9d1d9" />
 </p>
 
@@ -172,11 +172,11 @@ Aggregates data from multiple APIs into a single visual dashboard with custom ch
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=8BE9FD&line=F72585&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wyhrdev123100&theme=react-dark&hide_border=true&bg_color=0D1117&color=8BE9FD&line=F72585&point=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wyhrdev123100&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
