@@ -1,227 +1,295 @@
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1026,25:1B1F3B,50:3A0CA3,75:7209B7,100:F72585&text=Welcome%20to%20My%20Universe%20🌌&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,10:0d1117,30:1a1a2e,50:16213e,70:0f3460,85:533483,100:e94560&text=&fontSize=1&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=8BE9FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;A+Developer+Lost+in+the+Cosmos+%F0%9F%9A%80;Building+Cool+Things+from+Ideas+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95;Welcome+to+my+GitHub+Galaxy+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A6+WYHRDEV123100+%E2%9C%A6;Architect+of+Digital+Realities" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00F5D4?style=for-the-badge&logo=googlemessages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9D4EDD?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Cosmic%20Galaxy-F72585?style=for-the-badge&logo=pinboard&logoColor=white" />
-</p>
+<!-- ══════════════════════════════════════════════════════════════════
+     ██████╗ ███████╗███╗   ██╗████████╗ ██████╗      ██████╗ ██████╗ ██╗██████╗ 
+     ██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔═══██╗    ██╔════╝ ██╔══██╗██║██╔══██╗
+     ██████╔╝█████╗  ██╔██╗ ██║   ██║   ██║   ██║    ██║  ███╗██████╔╝██║██║  ██║
+     ██╔══██╗██╔══╝  ██║╚██╗██║   ██║   ██║   ██║    ██║   ██║██╔══██╗██║██║  ██║
+     ██████╔╝███████╗██║ ╚████║   ██║   ╚██████╔╝    ╚██████╔╝██║  ██║██║██████╔╝
+     ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝      ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝
+     ══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Wyhrdev123100?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/Wyhrdev123100">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS" />
-  </a>
-  <a href="https://github.com/Wyhrdev123100?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore%20Now-3A86FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    BENTO ROW 1                              ║
+     ║  [  HERO IDENTITY — span 3  ] [ QUICK STATUS — span 1 ]    ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
----
-
-
-<img align="right" alt="space-coder" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-```javascript
-const developer = {
-  name: "Wyhrdev123100",
-  username: "Wyhrdev123100",
-  location: "Vietnam 🇻🇳",
-  role: "Full Stack Developer",
-  portfolio: "https://qhvn.vercel.app/",
-  email: "yesyes8888@gmail.com",
-
-  code: [
-    "Python", "TypeScript",
-  ],
-
-  technologies: {
-    frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "NestJS", "Laravel"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker", "Nginx", "GitHub Actions", "Linux"],
-    cloud: ["Vercel", "Netlify", "Firebase", "AWS"]
-  },
-
-  currentFocus: "Building clean, fast and beautiful web apps",
-  motto: "Code like a star. Shine in silence. 🚀"
-};
-```
-
-<br clear="right"/>
-
-
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td colspan="3" align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #16213e 100%); border-radius: 24px; padding: 0; border: 1px solid #21262d;">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:e94560,50:533483,100:0f3460" />
 
-Built with Next.js, NestJS, and PostgreSQL. Handles auth, payments, and real-time inventory sync.
+<br>
 
-`Next.js` `NestJS` `PostgreSQL` `Stripe`
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=22&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer+%7C+System+Architect+%7C+Open+Source+Contributor" />
 
-[![Repo](https://img.shields.io/badge/View-Repo-3A0CA3?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/project-earth)
-[![Live](https://img.shields.io/badge/Live-Demo-F72585?style=flat-square&logo=vercel)](https://your-demo-link.com)
+<br>
 
-</td>
-<td width="50%">
+<a href="https://qhvn.vercel.app"><img src="https://img.shields.io/badge/%E2%97%86_Portfolio-e94560?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://discord.com/users/xhr."><img src="https://img.shields.io/badge/%E2%97%86_Discord-533483?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:yesyes8888@gmail.com"><img src="https://img.shields.io/badge/%E2%97%86_Email-0f3460?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-WebSocket-based document editor with presence indicators and conflict resolution.
-
-`React` `Socket.io` `Redis` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/View-Repo-3A0CA3?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/project-saturn)
-[![Live](https://img.shields.io/badge/Live-Demo-F72585?style=flat-square&logo=vercel)](https://your-demo-link.com)
+<br><br>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%" align="center" style="background: #0d1117; border-radius: 24px; padding: 30px; border: 1px solid #21262d;">
 
-Scaffolds projects, manages env configs, and automates release notes.
+<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-00ff88?style=flat-square&labelColor=0d1117" />
 
-`Node.js` `TypeScript` `Commander.js`
+<br><br>
 
-[![Repo](https://img.shields.io/badge/View-Repo-3A0CA3?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/project-comet)
-[![NPM](https://img.shields.io/badge/NPM-Package-CB3837?style=flat-square&logo=npm)](https://npmjs.com/package/your-package)
+<a href="https://github.com/Wyhrdev123100?tab=followers">
+  <img src="https://img.shields.io/github/followers/Wyhrdev123100?style=flat-square&color=e94560&labelColor=0d1117&label=Followers" />
+</a>
 
-</td>
-<td width="50%">
+<br><br>
 
-Aggregates data from multiple APIs into a single visual dashboard with custom charts.
+<img src="https://komarev.com/ghpvc/?username=Wyhrdev123100&style=flat-square&color=533483&label=Views" />
 
-`Vue` `Python` `FastAPI` `Chart.js`
+<br><br>
+📍 Vietnam 🇻🇳
+⏰ UTC+7
 
-[![Repo](https://img.shields.io/badge/View-Repo-3A0CA3?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/project-nebula)
-[![Live](https://img.shields.io/badge/Live-Demo-F72585?style=flat-square&logo=vercel)](https://your-demo-link.com)
+text
+
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,nestjs,python,java,php,laravel,csharp,mysql,postgres,mongodb,redis,docker,nginx,git,github,linux,vercel,firebase,aws&theme=dark&perline=13" />
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    BENTO ROW 2                              ║
+     ║  [ ABOUT ME — span 2 ]  [ CODE BLOCK — span 2 ]           ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<details>
-<summary><b>📡 Full stack breakdown</b></summary>
-<br>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 30px; border: 1px solid #21262d;">
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
+  <samp>About Me</samp>
+</h3>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</details>
-
----
-
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyhrdev123100&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&icon_color=F72585&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8BE9FD&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=8BE9FD&ring=F72585&fire=F72585&currStreakLabel=8BE9FD" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wyhrdev123100&theme=react-dark&hide_border=true&bg_color=0D1117&color=8BE9FD&line=F72585&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wyhrdev123100&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
-
+<img align="right" alt="coding" width="180" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ```yaml
-🔭 Exploring:     Distributed systems & event-driven architecture
-🛠️ Building:      A SaaS starter kit with multi-tenant auth
-📚 Learning:      Rust, for systems-level side projects
-🤝 Open to:       Collaborating on open-source dev tools
-💬 Ask me about:  React, Node.js, system design, DevOps basics
-⚡ Fun fact:      I debug better at 2 AM than 2 PM
-```
+name: Wyhrdev123100
+location: Vietnam 🇻🇳
+role: Full Stack Developer
+experience: Building & Shipping
 
----
+currently:
+  → SaaS starter kit
+  → Multi-tenant systems
+  → Open source tools
 
-## 🚀 Launch Sequence (Timeline)
+philosophy: |
+  "Design is not just what it 
+   looks like. Design is how 
+   it works."
+<br clear="right"/></td> <td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 30px; border: 1px solid #21262d;"><h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <samp>Identity</samp> </h3>
+TypeScript
 
-```
-2021  ─●── Wrote my first "Hello World" — got hooked instantly
-2022  ─●── Shipped first freelance project (a small business site)
-2023  ─●── Went full-stack — added Node.js & databases to the toolkit
-2024  ─●── Started contributing to open source
-2025  ─●── Landed first full-time dev role
-2026  ─●── Building bigger systems, mentoring, still shipping
-```
+interface Developer {
+  readonly name: string;
+  readonly craft: string[];
+  readonly passion: string;
+}
 
----
+const wyhr: Developer = {
+  name: "Wyhrdev123100",
+  craft: [
+    "Clean Architecture",
+    "Scalable Systems",
+    "Beautiful Interfaces",
+    "Developer Experience",
+  ],
+  passion: 
+    "Turning complex problems" +
+    " into elegant solutions ✨"
+};
 
-  <a href="https://qhvn.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/xhr.">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+// Life motto
+console.log("Ship fast. Learn faster.");
+</td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" /><!-- ╔══════════════════════════════════════════════════════════════╗ ║ BENTO ROW 3 — TECH STACK ║ ║ [ FULL WIDTH TECH ARSENAL — span 4 ] ║ ╚══════════════════════════════════════════════════════════════╝ --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td align="center" style="background: #0d1117; border-radius: 24px; padding: 35px 40px; border: 1px solid #21262d;"><h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> <samp> Tech Arsenal</samp> </h2><br><table border="0" cellspacing="0" cellpadding="12"> <tr> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+LANGUAGES
 
----
+<br><img src="https://skillicons.dev/icons?i=ts,js,python,php&theme=dark&perline=2" width="90" /></td> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+FRONTEND
 
+<br><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark&perline=2" width="90" /></td> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+BACKEND
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F72585,25:7209B7,50:3A0CA3,75:1B1F3B,100:0B1026&section=footer&animation=twinkling" />
-</p>
+<br><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel&theme=dark&perline=2" width="90" /></td> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+DATABASE
 
-<p align="center">
-  <i>⭐ From Wyhrdev123100's — thanks for stopping by</i>
-</p>
+<br><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=2" width="90" /></td> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+DEVOPS
+
+<br><img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws&theme=dark&perline=2" width="90" /></td> <td align="center" width="140" style="background: #161b22; border-radius: 16px; padding: 20px;">
+TOOLS
+
+<br><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase&theme=dark&perline=2" width="90" /></td> </tr> </table></td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" /><!-- ╔══════════════════════════════════════════════════════════════╗ ║ BENTO ROW 4 — PROJECTS ║ ║ [ FEATURED span 2x2 ] [ PROJECT 2 ] [ PROJECT 3 ] ║ ╚══════════════════════════════════════════════════════════════╝ --><h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <samp> Featured Creations</samp> </h2><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr><!-- FEATURED PROJECT — LARGE TILE (simulates span 2x2) --><td width="50%" rowspan="2" valign="top" style="background: linear-gradient(145deg, #0d1117 0%, #161b22 100%); border-radius: 24px; padding: 30px; border: 1px solid #21262d;"><h3> <img src="https://img.shields.io/badge/★_FEATURED-e94560?style=flat-square&labelColor=e94560" /> </h3>
+🏗️ Enterprise E-Commerce Platform
+<br><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0d1117,50:1a1a2e,100:16213e&text=E-Commerce%20Platform&fontSize=20&fontColor=e94560&fontAlignY=50" /><br>
+Full-scale marketplace with real-time inventory, multi-vendor support, payment processing & admin dashboard.
+
+<br>
+text
+
+Architecture:  Microservices
+Auth:          JWT + OAuth2
+Payments:      Stripe Integration
+Real-time:     WebSocket Sync
+<br>
+Next.js
+NestJS
+PostgreSQL
+Stripe
+Docker
+
+<br>
+<a href="https://github.com/Wyhrdev123100"><img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-e94560?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td><!-- PROJECT 2 — SMALL TILE (top right) --><td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;">
+⚡ Real-Time Collab Editor
+WebSocket document editor with live cursors, presence indicators & conflict resolution
+
+text
+
+Stack: React + Socket.io + Redis
+React
+Socket.io
+Redis
+
+<a href="https://github.com/Wyhrdev123100"><img src="https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-533483?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td> </tr> <tr><!-- PROJECT 3 — SMALL TILE (bottom right) --><td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;">
+🛠️ DevForge CLI
+Project scaffolding, env management & automated release notes from the terminal
+
+text
+
+Stack: Node.js + TypeScript + Commander
+Node.js
+TypeScript
+
+<a href="https://github.com/Wyhrdev123100"><img src="https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+
+</td> </tr> </table><!-- BOTTOM ROW — TWO EQUAL TILES --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;">
+📊 DataNebula Dashboard
+Multi-API data aggregation with custom visualizations & real-time charts
+
+Vue
+FastAPI
+Chart.js
+
+<a href="https://github.com/Wyhrdev123100"><img src="https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-0f3460?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td> <td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;">
+🔐 AuthVault
+Complete authentication system with multi-tenant support, RBAC & session management
+
+NestJS
+JWT
+PostgreSQL
+
+<a href="https://github.com/Wyhrdev123100"><img src="https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Docs-e94560?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+
+</td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" /><!-- ╔══════════════════════════════════════════════════════════════╗ ║ BENTO ROW 5 — STATS ║ ║ [ GITHUB STATS span 2 ] [ STREAK span 2 ] ║ ╚══════════════════════════════════════════════════════════════╝ --><h2 align="center"> <samp>📈 Performance Metrics</samp> </h2><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="50%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Wyhrdev123100&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=533483&text_color=8b949e&ring_color=e94560&include_all_commits=true&count_private=true" /></td> <td width="50%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wyhrdev123100&hide_border=true&background=0d1117&stroke=21262d&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" /></td> </tr> </table><!-- ACTIVITY GRAPH — FULL WIDTH --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td align="center" style="background: #0d1117; border-radius: 24px; padding: 20px; border: 1px solid #21262d;"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wyhrdev123100&bg_color=0d1117&color=8b949e&line=e94560&point=ffffff&area_color=533483&area=true&hide_border=true&custom_title=Contribution%20Activity" /></td> </tr> </table><!-- LANGUAGES + TROPHIES SIDE BY SIDE --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="35%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyhrdev123100&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=6" /></td> <td width="65%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Wyhrdev123100&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" /></td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" /><!-- ╔══════════════════════════════════════════════════════════════╗ ║ BENTO ROW 6 — JOURNEY + CONNECT ║ ║ [ TIMELINE span 2 ] [ CURRENT + CONNECT span 2 ] ║ ╚══════════════════════════════════════════════════════════════╝ --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="50%" valign="top" style="background: #0d1117; border-radius: 24px; padding: 30px; border: 1px solid #21262d;"><h3 align="center"><samp>🗺️ Journey</samp></h3>
+text
+
+                    ╭─────────────────╮
+  2021  ──◆──       │  Hello World    │
+                    ╰────────┬────────╯
+                             │
+                    ╭────────┴────────╮
+  2022  ──◆──       │  First Client   │
+                    ╰────────┬────────╯
+                             │
+                    ╭────────┴────────╮
+  2023  ──◆──       │  Full Stack     │
+                    ╰────────┬────────╯
+                             │
+                    ╭────────┴────────╮
+  2024  ──◆──       │  Open Source    │
+                    ╰────────┬────────╯
+                             │
+                    ╭────────┴────────╮
+  2025  ──◆──       │  Building Big   │
+                    ╰────────┬────────╯
+                             │
+                    ╭────────┴────────╮
+  NOW   ──◈──       │  ∞ Evolving    │
+                    ╰─────────────────╯
+</td> <td width="50%" valign="top"><!-- CURRENT FOCUS — SMALL TILE --><table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr> <td style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><h3 align="center"><samp>🎯 Current Focus</samp></h3>
+YAML
+
+🔭 Exploring:
+   Distributed systems
+   Event-driven architecture
+
+🛠️ Building:
+   SaaS starter kit
+   Multi-tenant auth system
+
+📚 Learning:
+   Rust — for systems projects
+   WebAssembly — for performance
+
+🤝 Open to:
+   Open-source collaborations
+   Dev tool projects
+</td> </tr> <tr><td height="8"></td></tr> <tr> <td align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><h3><samp>🌐 Let's Connect</samp></h3><br><a href="https://qhvn.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=e94560" /> </a><a href="https://discord.com/users/xhr."> <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" /> </a><a href="mailto:yesyes8888@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a><a href="https://github.com/Wyhrdev123100"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /> </a>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=300&height=30&lines=Open+for+opportunities+%F0%9F%A4%9D;Let's+build+something+great+%F0%9F%9A%80" /></td> </tr> </table></td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=21262d" /><!-- ╔══════════════════════════════════════════════════════════════╗ ║ BENTO ROW 7 — SPOTIFY + QUOTE ║ ║ [ DAILY.DEV span 2 ] [ QUOTE span 2 ] ║ ╚══════════════════════════════════════════════════════════════╝ --><table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="50%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><h3><samp>💡 Philosophy</samp></h3><br>
+text
+
+  ╔══════════════════════════════════════╗
+  ║                                      ║
+  ║   "Simplicity is the ultimate        ║
+  ║    sophistication."                  ║
+  ║                                      ║
+  ║    — Leonardo da Vinci               ║
+  ║                                      ║
+  ╠══════════════════════════════════════╣
+  ║                                      ║
+  ║   "First, solve the problem.         ║
+  ║    Then, write the code."            ║
+  ║                                      ║
+  ║    — John Johnson                    ║
+  ║                                      ║
+  ╚══════════════════════════════════════╝
+</td> <td width="50%" align="center" style="background: #0d1117; border-radius: 24px; padding: 25px; border: 1px solid #21262d;"><h3><samp>📊 Weekly Dev Breakdown</samp></h3><br>
+text
+
+TypeScript   ████████████░░░░░░  65.2%
+Python       ████░░░░░░░░░░░░░░  18.7%
+Vue/React    ██░░░░░░░░░░░░░░░░   8.4%
+Shell        █░░░░░░░░░░░░░░░░░   4.1%
+Other        ░░░░░░░░░░░░░░░░░░   3.6%
+<br>
+text
+
+⏰ Most productive: Late Night 🌙
+📅 Best day: Saturday
+🔥 Current streak: Keep going!
+💻 Editor: VS Code + Vim motions
+</td> </tr> </table><!-- ══════════════════════════════════════════════════════════════════ SNAKE ANIMATION ══════════════════════════════════════════════════════════════════ --><br><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" /> </picture> </p><!-- ══════════════════════════════════════════════════════════════════ FOOTER ══════════════════════════════════════════════════════════════════ --><br><p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e94560,25:533483,50:0f3460,75:533483,100:e94560" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2000&color=e94560&center=true&vCenter=true&width=500&height=30&lines=%E2%9C%A6+Thanks+for+visiting+my+universe+%E2%9C%A6;%E2%AD%90+Star+a+repo+if+you+found+it+useful+%E2%AD%90;%F0%9F%9A%80+Let's+build+the+future+together+%F0%9F%9A%80" /> </p><p align="center"> <samp> <b>Wyhrdev123100</b> · Crafted with ❤️ and ☕ <br> <sub>Last updated: 2025</sub> </samp> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:e94560,25:533483,50:0f3460,75:16213e,100:0d1117&section=footer&animation=twinkling" /> </p> ```
