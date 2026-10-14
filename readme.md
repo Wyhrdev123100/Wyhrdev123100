@@ -8,11 +8,21 @@
 -->
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="The Starry Night redrawn in SVG brush strokes — swirling sky, eleven stars, crescent moon, cypress and village — with the WYHRDEV123100 ASCII wordmark" />
+  <img src="assets/hero.svg" width="100%" alt="The Starry Night (1889) — the real painting, animated: stars twinkling on their original positions, light sweeping the sky, brush comets riding the vortex, with the WYHRDEV123100 ASCII wordmark glowing over the village" />
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: quachhung, product engineer from Bac Ninh, Vietnam" />
+  <img src="assets/band.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <sub><em>“The Starry Night”, 1889 — Vincent van Gogh (1853–1890). Public domain; the photograph is the
+  <a href="https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">Google Art Project scan on Wikimedia Commons</a>.
+  Animated reinterpretation — not affiliated with the Van Gogh Museum.</em></sub>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: product engineer from Bac Ninh, Vietnam" />
 </p>
 
 <p align="center">
@@ -102,6 +112,12 @@
 </p>
 
 <p align="center"><sub>also in the box: <b>ws</b> WebSockets · <b>node-pty</b> · <b>express-session</b> · <b>bcryptjs</b> · <b>Nixpacks</b> · <b>Docker Compose</b> · <b>ttyd</b> · <b>supervisor</b></sub></p>
+
+<p align="center"><sub>Every colour on this page is sampled from the painting.<br /><em>Mọi màu trên trang này đều lấy từ bức tranh.</em></sub></p>
+
+<p align="center">
+  <img src="assets/palette.svg" width="100%" alt="Palette sampled from The Starry Night: night, prussian, ultramarine, cobalt, cerulean, verdigris, chrome, lemon, cream" />
+</p>
 
 <p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
@@ -290,17 +306,22 @@ drwxr-xr-x   docker-ubuntu     Dockerfile         19 KB   pushed 2026-05-02
 
 | File | Built from | Animation |
 | --- | --- | --- |
-| `hero.svg` | ~1100 generated brush strokes + block-ASCII letters | 11 stars twinkling & rotating, crescent moon, spiral vortex, hillside + flickering village windows, cypress (Van Gogh, *The Starry Night*) |
+| `hero.svg` | the real painting, embedded as WebP data-URI + block-ASCII letters | slow Ken Burns zoom & drift, 9 stars twinkling **locked to their painted positions**, moon breathing, 2 light sweeps, 4 brush comets, 30 drifting embers |
 | `terminal.svg` | hand-written SVG window | boot log, neofetch block, typewriter `clipPath` reveal, blinking caret |
 | `ticker.svg` | seamless marquee | one-period translate loop, edge mask fade |
-| `rule.svg` | dashed rule | travelling glow dots + blinking block |
+| `rule.svg` | three flowing wave rules | drifting motes + blinking block |
+| `band.svg` | aurora ribbons | six blurred ribbons drifting + rising sparks |
+| `palette.svg` | 9 swatches sampled from the painting | staggered bounce, height and glow |
 | `leds.svg` | focus strip | staggered LED blink + expanding rings |
 | `icons/*.svg` | brand marks, recolored to one accent | none |
 
 - Animations use **SMIL only, no JavaScript**, so GitHub's image proxy renders them safely.
 - Palette — *The Starry Night*: sky `#050A1E` / `#0A1330`, frame `#18254F`, gold `#F5C542`, chrome `#FFD866`, cream `#FFF3D6`, teal `#1D8FA8`, ultramarine `#2B4C9B`.
+- **Wind**: 16 gusts ride concentric arcs around the painting's own vortex (470, 210), 9 more sweep straight across — every one drawn with `stroke-dasharray` + `stroke-dashoffset` so the gust visibly travels along the curve the paint follows.
+- **Licence**: *The Starry Night* (1889) is public domain — Van Gogh died in 1890, more than 70 years before the source photograph was made. The Wikimedia/Google Art Project scan is released under a permissive licence. Credit line with the source link sits directly under the hero.
+- The painting in `hero.svg` is embedded as a WebP data-URI, so the hero has **zero external dependencies**. Star positions were read off the painting itself — move the `STARS` list to retarget the twinkles.
 - The wordmark letters are plain block characters (`█` + space) in a monospace font, so they inherit whatever font the reader's browser picks — swap the `FONT` map to change the wording.
-- Every stroke of the sky is generated: a swirl field (`flow()`) curls the strokes around a vortex point, the same way the brushwork in the original curves around its spiral.
+- Repaint the hero: drop any replacement image at `assets/painting.webp`, resize to 1320px wide, then re-embed — the crop window is the top 1280px of a 1920px-wide source.
 - To recolour everything: edit the gradient stops in each `<defs>`.
 - Swapping the wordmark text: change `WORD` in the generator — each letter is a 5×7 cell map.
 - Project screenshots in `assets/projects/` are real screenshots, exported to WebP.

@@ -8,11 +8,11 @@
 </defs>
 <g mask="url(#tmask)">
   <g>
-    <text x="0" y="29" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#C6D2EC">JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   </text>
+    <text x="0" y="29" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#8B9BB0">JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   JS   ◆   TS   ◆   NODE.JS   ◆   REACT   ◆   NEXT.JS   ◆   TAILWIND   ◆   EXPRESS   ◆   PYTHON   ◆   FLASK   ◆   FASTAPI   ◆   NUMPY   ◆   PANDAS   ◆   DOCKER   ◆   LINUX   ◆   RAILWAY   ◆   GIT   ◆   </text>
     <animateTransform attributeName="transform" type="translate" from="0 0" to="-2070.0 0"
                       dur="22s" repeatCount="indefinite"/>
   </g>
 </g>
-<path d="M0 45.5H1200" stroke="#18254F"/>
-<path d="M0 0.5H1200" stroke="#18254F"/>
+<path d="M0 45.5H1200" stroke="#1B2230"/>
+<path d="M0 0.5H1200" stroke="#1B2230"/>
 </svg>
