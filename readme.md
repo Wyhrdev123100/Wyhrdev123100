@@ -1,14 +1,22 @@
 <!--
   ─────────────────────────────────────────────────────────────
   Wyhrdev123100 · profile README
-  Terminal / OS-IDE theme. Every image in assets/ is either a
-  hand-written SVG (SMIL only, no JavaScript) or a real
-  screenshot of the project itself.
+  Terminal / OS-IDE theme. Every graphic in assets/ is a
+  hand-written SVG (SMIL only, no JavaScript); every photo is a
+  real screenshot of the project itself.
   ─────────────────────────────────────────────────────────────
 -->
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: Quach Hung — Product Engineer from Bac Ninh, Vietnam" />
+  <img src="assets/hero.svg" width="100%" alt="The Starry Night redrawn in SVG brush strokes — swirling sky, eleven stars, crescent moon, cypress and village — with the WYHRDEV123100 ASCII wordmark" />
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: quachhung, product engineer from Bac Ninh, Vietnam" />
+</p>
+
+<p align="center">
+  <img src="assets/ticker.svg" width="100%" alt="JavaScript, TypeScript, Node.js, React, Next.js, Tailwind, Express, Python, Flask, FastAPI, NumPy, pandas, Docker, Linux, Railway, Git" />
 </p>
 
 <p align="center">
@@ -19,14 +27,16 @@
   <a href="https://linkedin.com/zzzzazia"><code>linkedin</code></a>
 </p>
 
----
+<p align="center"><img src="assets/leds.svg" width="86%" alt="Focus areas: web, terminal, infra, docker, python, ai/ml, design, ship" /></p>
+
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/about.md`
 
 <p align="center">
-  <sub>I'm Quách Hùng — a product-minded developer from Bắc Ninh, Vietnam.<br />
+  <sub>I'm Quách Hưng — a product-minded developer from Bắc Ninh, Vietnam.<br />
   I build web apps, terminal tooling and the infrastructure to ship them.<br /><br />
-  <em>Tôi là Quách Hùng — lập trình viên tại Bắc Ninh. Tôi làm web app, công cụ terminal và hạ tầng để triển khai chúng.</em></sub>
+  <em>Tôi là Quách Hưng — lập trình viên tại Bắc Ninh. Tôi làm web app, công cụ terminal và hạ tầng để triển khai chúng.</em></sub>
 </p>
 
 <table>
@@ -52,7 +62,7 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/stack.txt`
 
@@ -93,7 +103,7 @@
 
 <p align="center"><sub>also in the box: <b>ws</b> WebSockets · <b>node-pty</b> · <b>express-session</b> · <b>bcryptjs</b> · <b>Nixpacks</b> · <b>Docker Compose</b> · <b>ttyd</b> · <b>supervisor</b></sub></p>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/projects/`
 
@@ -104,7 +114,7 @@
     </td>
     <td valign="middle">
       <h3 align="left"><code>~/projects/vps-terminal</code> <sub>v2.0.0</sub></h3>
-      <p align="left"><b>A web IDE that runs on your VPS.</b> A real PTY terminal streamed over WebSocket, a file manager with upload/rename/download, and a background process manager that survives crashes.</p>
+      <p align="left"><b>A web IDE that runs on your VPS.</b> A real PTY terminal streamed over WebSocket, a file manager with upload / rename / download, and a background process manager that survives crashes.</p>
       <p align="left"><sub><em>Web IDE chạy trên VPS: terminal thật qua node-pty, quản lý tệp và process manager nền tự khởi động lại khi crash.</em></sub></p>
       <p align="left"><sub>Node.js · Express · ws · node-pty · express-session · bcryptjs · Docker · Nixpacks · Railway</sub></p>
       <p align="left"><a href="https://github.com/Wyhrdev123100/VPS-Terminal"><code>source →</code></a></p>
@@ -121,7 +131,7 @@
     </td>
     <td valign="middle">
       <h3 align="left"><code>~/projects/profile-wynnor</code> <sub>live</sub></h3>
-      <p align="left"><b>My portfolio site.</b> A single-page experience built on Next.js 15 + React 19 with TypeScript and Tailwind v4 — motion, music, an interactive atlas and a console section.</p>
+      <p align="left"><b>My portfolio site.</b> A single-page experience on Next.js 15 + React 19 with TypeScript and Tailwind v4 — motion, music, an interactive atlas and a console section.</p>
       <p align="left"><sub><em>Trang portfolio cá nhân: Next.js 15 + React 19, TypeScript, Tailwind v4, có motion, nhạc, atlas tương tác và console.</em></sub></p>
       <p align="left"><sub>Next.js · React · TypeScript · Tailwind CSS · ESLint</sub></p>
       <p align="left"><a href="https://qhvn.vercel.app"><code>visit →</code></a> &nbsp; <a href="https://github.com/Wyhrdev123100/profile-Wynnor"><code>source →</code></a></p>
@@ -147,7 +157,7 @@
 <table>
   <tr>
     <td width="52%" valign="middle">
-      <img src="assets/projects/docker-ubuntu.webp" alt="Docker Ubuntu environment running on Railway" />
+      <img src="assets/projects/docker-ubuntu.webp" alt="Docker Ubuntu deployment online on Railway" />
     </td>
     <td valign="middle">
       <h3 align="left"><code>~/projects/docker-ubuntu</code></h3>
@@ -160,7 +170,15 @@
 </table>
 
 <details>
-<summary><b><code>~/projects/misc/</code> — smaller things</b></summary>
+<summary><b><code>ls -la ~/projects/</code> — live repo index</b></summary>
+
+```
+drwxr-xr-x   profile-Wynnor    TypeScript     11.5 MB   pushed 2026-10-07
+drwxr-xr-x   tempmail          HTML              17 KB   pushed 2026-08-05
+drwxr-xr-x   VPS-Terminal      JavaScript       138 KB   pushed 2026-08-02
+drwxr-xr-x   dsl               HTML              33 KB   pushed 2026-05-14
+drwxr-xr-x   docker-ubuntu     Dockerfile         19 KB   pushed 2026-05-02
+```
 
 - **[dsl](https://github.com/Wyhrdev123100/dsl)** — `Đọa Sinh Luân`, a small Vietnamese story reader (HTML + JS).
 - **[ui-ux-pro-max-skill](https://github.com/Wyhrdev123100/ui-ux-pro-max-skill)** · **[thedev.id](https://github.com/Wyhrdev123100/thedev.id)** · **[domain](https://github.com/Wyhrdev123100/domain)** · **[register (is-a.dev)](https://github.com/Wyhrdev123100/register)** · **[ua-generator](https://github.com/Wyhrdev123100/ua-generator)** · **[discord-quest-completer](https://github.com/Wyhrdev123100/discord-quest-completer)** · **[rairu-kun](https://github.com/Wyhrdev123100/rairu-kun)** — forks I keep around to read and learn from.
@@ -168,7 +186,7 @@
 
 </details>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/certificates/`
 
@@ -219,32 +237,32 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/stats.sh`
 
 <table>
   <tr>
     <td width="49%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wyhrdev123100&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0A0D12&amp;title_color=55D6FF&amp;icon_color=8B5CF6&amp;text_color=EAF2FF&amp;ring_color=55D6FF&amp;line_color=1B2230" width="100%" alt="GitHub statistics for Wyhrdev123100" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Wyhrdev123100&amp;show_icons=true&amp;hide_border=true&amp;bg_color=04081A&amp;title_color=F5C542&amp;icon_color=1D8FA8&amp;text_color=FFF3D6&amp;ring_color=F5C542&amp;line_color=18254F" width="100%" alt="GitHub statistics for Wyhrdev123100" />
     </td>
     <td width="51%" align="center">
-      <img src="https://streak-stats.demolab.com?user=Wyhrdev123100&amp;hide_border=true&amp;background=0A0D12&amp;stroke=55D6FF&amp;ring=8B5CF6&amp;fire=A7F3D0&amp;currStreakNum=EAF2FF&amp;sideNums=94A3B8&amp;dates=94A3B8&amp;currStreakLabel=A7F3D0&amp;sideLabels=EAF2FF" width="100%" alt="Contribution streak for Wyhrdev123100" />
+      <img src="https://streak-stats.demolab.com?user=Wyhrdev123100&amp;hide_border=true&amp;background=04081A&amp;stroke=F5C542&amp;ring=1D8FA8&amp;fire=FFD866&amp;currStreakNum=FFF3D6&amp;sideNums=A8B4D0&amp;dates=A8B4D0&amp;currStreakLabel=F5C542&amp;sideLabels=FFF3D6" width="100%" alt="Contribution streak for Wyhrdev123100" />
     </td>
   </tr>
   <tr>
     <td width="34%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyhrdev123100&amp;layout=compact&amp;hide_border=true&amp;bg_color=0A0D12&amp;title_color=55D6FF&amp;text_color=EAF2FF" width="100%" alt="Most used languages by Wyhrdev123100" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyhrdev123100&amp;layout=compact&amp;hide_border=true&amp;bg_color=04081A&amp;title_color=F5C542&amp;text_color=FFF3D6" width="100%" alt="Most used languages by Wyhrdev123100" />
     </td>
     <td width="66%" align="center">
-      <img src="https://github-activity-graph.vercel.app/graph?username=Wyhrdev123100&amp;custom_title=Contribution%20Activity&amp;area=true&amp;line=-1&amp;days=90&amp;bg_color=0A0D12&amp;color=55D6FF&amp;title_color=EAF2FF" width="100%" alt="Contribution activity graph for Wyhrdev123100 over the last 90 days" />
+      <img src="https://github-activity-graph.vercel.app/graph?username=Wyhrdev123100&amp;custom_title=Contribution%20Activity&amp;area=true&amp;line=-1&amp;days=90&amp;bg_color=04081A&amp;color=F5C542&amp;title_color=FFF3D6" width="100%" alt="Contribution activity graph for Wyhrdev123100 over the last 90 days" />
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Wyhrdev123100"><img src="https://komarev.com/ghpvc/?username=Wyhrdev123100&amp;label=profile%20views&amp;color=55D6FF" alt="Profile views counter" /></a></p>
+<p align="center"><a href="https://github.com/Wyhrdev123100"><img src="https://komarev.com/ghpvc/?username=Wyhrdev123100&amp;label=profile%20views&amp;color=F5C542" alt="Profile views counter" /></a></p>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 ## `~/contributions.log`
 
@@ -256,9 +274,9 @@
   </picture>
 </p>
 
-<p align="center"><sub>generated by <code>.github/workflows/snake.yml</code> — every 6 hours</sub></p>
+<p align="center"><sub>generated by <code>.github/workflows/snake.yml</code> — every 6 hours · eleven stars above are the same eleven in the hero</sub></p>
 
----
+<p align="center"><img src="assets/rule.svg" width="100%" alt="" /></p>
 
 <p align="center">
   <sub>built by <a href="https://github.com/Wyhrdev123100"><b>Wyhrdev123100</b></a> · hand-written SVG, zero JavaScript<br />
@@ -270,20 +288,32 @@
 
 **Artwork — `assets/`**
 
-- `terminal.svg` is hand-written SVG: window chrome, ASCII wordmark built from block glyphs, and a typewriter reveal driven by SMIL `clipPath` + `<animate>`.
+| File | Built from | Animation |
+| --- | --- | --- |
+| `hero.svg` | ~1100 generated brush strokes + block-ASCII letters | 11 stars twinkling & rotating, crescent moon, spiral vortex, hillside + flickering village windows, cypress (Van Gogh, *The Starry Night*) |
+| `terminal.svg` | hand-written SVG window | boot log, neofetch block, typewriter `clipPath` reveal, blinking caret |
+| `ticker.svg` | seamless marquee | one-period translate loop, edge mask fade |
+| `rule.svg` | dashed rule | travelling glow dots + blinking block |
+| `leds.svg` | focus strip | staggered LED blink + expanding rings |
+| `icons/*.svg` | brand marks, recolored to one accent | none |
+
 - Animations use **SMIL only, no JavaScript**, so GitHub's image proxy renders them safely.
-- Colors: window `#0A0D12`, frame `#1B2230`, accent `#55D6FF`, second accent `#8B5CF6`, prompt green `#7EE787`, success mint `#A7F3D0`.
-- Tech icons are monochrome silhouettes of the official brand marks, recolored to the accent so the set reads as one system. Swap one by dropping a new `24×24` SVG into `assets/icons/`.
-- Project screenshots in `assets/projects/` are real screenshots of the apps, compressed to WebP.
+- Palette — *The Starry Night*: sky `#050A1E` / `#0A1330`, frame `#18254F`, gold `#F5C542`, chrome `#FFD866`, cream `#FFF3D6`, teal `#1D8FA8`, ultramarine `#2B4C9B`.
+- The wordmark letters are plain block characters (`█` + space) in a monospace font, so they inherit whatever font the reader's browser picks — swap the `FONT` map to change the wording.
+- Every stroke of the sky is generated: a swirl field (`flow()`) curls the strokes around a vortex point, the same way the brushwork in the original curves around its spiral.
+- To recolour everything: edit the gradient stops in each `<defs>`.
+- Swapping the wordmark text: change `WORD` in the generator — each letter is a 5×7 cell map.
+- Project screenshots in `assets/projects/` are real screenshots, exported to WebP.
 
 **Certificates — `assets/certs/`**
 
-- One sheet, nine certificates, cropped into individual cards. Regenerate after a new certificate: crop from the source sheet, export WebP, update the table in `~/certificates/`.
-- Each card links back to the full sheet at `https://huuuu.hungq64088.workers.dev/`.
+- One sheet, nine certificates, cropped into individual cards. To add a new one: crop from the source sheet, export WebP, add a cell to the table in `~/certificates/`.
+- Every card links back to the full sheet at `https://huuuu.hungq64088.workers.dev/`.
 
 **Snake — `.github/workflows/snake.yml`**
 
-- Uses [`Platane/snk`](https://github.com/Platane/snk), commits to the `output` branch every 6 hours, can be triggered manually with **Run workflow**.
+- Uses [`Platane/snk`](https://github.com/Platane/snk) with `github_user_name: Wyhrdev123100`, commits to the `output` branch every 6 hours, can be triggered manually with **Run workflow**.
+- It writes **three** files into `output/`: the light snake, a `github-dark` snake and a cyan **neon** snake. `~/contributions.log` uses the first two; swap the `srcset` to `…-sneon.svg` if you want the neon one.
 - Only `permissions: contents: write` — nothing broader.
 - The snake appears **after the first successful run**; until then that section shows a broken image.
 - GitHub pauses scheduled workflows after ~60 days of repo inactivity — push a commit or press **Run workflow** to restart it.
@@ -298,6 +328,10 @@
 | Profile views | `komarev/ghpvc` | Delete the `<p>` |
 
 All four were verified to return HTTP 200 when this README was written.
+
+**Repo index**
+
+The `ls -la ~/projects/` table is generated from the GitHub API (language, repo size in KB, last push date). Re-copy those numbers whenever you push, or delete the block — it is the only part of this README that goes stale.
 
 **Link hygiene**
 

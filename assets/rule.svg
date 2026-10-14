@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="">
+<defs>
+  <linearGradient id="rg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+    <stop offset="0" stop-color="#F5C542" stop-opacity="0.05"/>
+    <stop offset="0.5" stop-color="#F5C542" stop-opacity="0.6"/>
+    <stop offset="1" stop-color="#1D8FA8" stop-opacity="0.05"/>
+  </linearGradient>
+  <filter id="rglow" x="-300%" y="-300%" width="700%" height="700%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<path d="M0 17.0H1200" stroke="url(#rg)" stroke-width="1" stroke-dasharray="3 7">
+  <animate attributeName="stroke-dashoffset" values="0;-200" dur="7s" repeatCount="indefinite"/>
+</path>
+<g filter="url(#rglow)">
+  <circle cx="0" cy="17.0" r="3" fill="#FFD866">
+    <animate attributeName="cx" values="0;1200" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.94;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="17.0" r="2" fill="#1D8FA8">
+    <animate attributeName="cx" values="0;1200" dur="6s" begin="-3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.04;0.94;1" dur="6s" begin="-3s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<rect x="595.0" y="10.0" width="10" height="14" rx="2" fill="#F5C542" opacity="0.9">
+  <animate attributeName="fill" values="#F5C542;#050A1E;#F5C542;#050A1E;#F5C542" dur="1.3s" repeatCount="indefinite"/>
+</rect>
+</svg>
