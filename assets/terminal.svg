@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Terminal window: Quach Hung, Product Engineer from Bac Ninh, Vietnam — web apps, terminal tooling, docker, deployment, ai/ml">
+<title>~/profile — terminal</title>
+<defs>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#55D6FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <linearGradient id="artg" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="1050" y2="0">
+    <stop offset="0" stop-color="#55D6FF"/><stop offset="0.55" stop-color="#EAF2FF"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="artclip"><rect x="38" y="72" width="1124" height="148"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="479" rx="14" fill="#0A0D12" stroke="#1B2230"/>
+<path d="M14.5 0.5H1185.5A14 14 0 0 1 1199.5 14.5V38.5H0.5V14.5A14 14 0 0 1 14.5 0.5Z" fill="#0E131B"/>
+<path d="M0.5 38.5H1199.5" stroke="#1B2230"/>
+<circle cx="28" cy="19" r="6" fill="#FF5F57" opacity="0.85"/>
+<circle cx="48" cy="19" r="6" fill="#FEBC2E" opacity="0.85"/>
+<circle cx="68" cy="19" r="6" fill="#28C840" opacity="0.85"/>
+<text x="600.0" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#5B6674">quachhung@dev — ~/profile — zsh</text>
+<rect x="46" y="38" width="0" height="2" fill="url(#bar)"><animate attributeName="width" values="0;1108" dur="1.6s" fill="freeze"/></rect>
+<g clip-path="url(#artclip)">
+<text x="151.5" y="88" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="1.00" xml:space="preserve">█   ██   ██   █████ ████ ██████   █  █   ███ █████  █   ███  ███</text>
+<text x="151.5" y="108" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.95" xml:space="preserve">█   ██   ██   ██   ██   ██    █   █ ██  █   █   █  ██  █   ██   █</text>
+<text x="151.5" y="128" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.89" xml:space="preserve">█   █ █ █ █   ██   ██   ██    █   █  █      █  █    █  █  ███  ██</text>
+<text x="151.5" y="148" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.84" xml:space="preserve">█ █ █  █  █████████ █   █████ █   █  █     █    █   █  █ █ ██ █ █</text>
+<text x="151.5" y="168" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.78" xml:space="preserve">█ █ █  █  █   ██ █  █   ██    █   █  █    █      █  █  ██  ███  █</text>
+<text x="151.5" y="188" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.73" xml:space="preserve">██ ██  █  █   ██  █ █   ██     █ █   █   █   █   █  █  █   ██   █</text>
+<text x="151.5" y="208" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="url(#artg)" opacity="0.67" xml:space="preserve">█   █  █  █   ██   █████ █████  █   ███ █████ ███  ███  ███  ███</text>
+</g>
+<path d="M46 232H1154" stroke="#151B25" stroke-width="1"/>
+<clipPath id="ln0"><rect x="46" y="236" width="0" height="24"><animate attributeName="width" values="0;114.4;114.4;0" keyTimes="0;0.044642857142857144;0.0982142857142857;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln0)">
+<text x="46" y="254" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7EE787">$</text>
+<text x="73.6" y="254" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#C9D3DF">whoami</text>
+</g>
+<clipPath id="ln1"><rect x="46" y="262" width="0" height="24"><animate attributeName="width" values="0;735.4000000000001;735.4000000000001;0" keyTimes="0;0.16964285714285715;0.2232142857142857;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln1)">
+<text x="64" y="280" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#5B6674">quachhung  ·  Product Engineer  ·  Bắc Ninh, Việt Nam</text>
+</g>
+<clipPath id="ln2"><rect x="46" y="288" width="0" height="24"><animate attributeName="width" values="0;211.0;211.0;0" keyTimes="0;0.29464285714285715;0.3482142857142857;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln2)">
+<text x="46" y="306" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7EE787">$</text>
+<text x="73.6" y="306" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#C9D3DF">cat focus.txt</text>
+</g>
+<clipPath id="ln3"><rect x="46" y="314" width="0" height="24"><animate attributeName="width" values="0;790.6;790.6;0" keyTimes="0;0.41964285714285715;0.47321428571428575;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln3)">
+<text x="64" y="332" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#5B6674">web apps · terminal tooling · docker · deployment · ai/ml</text>
+</g>
+<clipPath id="ln4"><rect x="46" y="340" width="0" height="24"><animate attributeName="width" values="0;211.0;211.0;0" keyTimes="0;0.5446428571428571;0.5982142857142857;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln4)">
+<text x="46" y="358" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7EE787">$</text>
+<text x="73.6" y="358" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#C9D3DF">ls ~/projects</text>
+</g>
+<clipPath id="ln5"><rect x="46" y="366" width="0" height="24"><animate attributeName="width" values="0;776.8000000000001;776.8000000000001;0" keyTimes="0;0.6696428571428571;0.7232142857142857;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln5)">
+<text x="64" y="384" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#5B6674">vps-terminal   profile-wynnor   docker-ubuntu   tempmail</text>
+</g>
+<clipPath id="ln6"><rect x="46" y="392" width="0" height="24"><animate attributeName="width" values="0;224.8;224.8;0" keyTimes="0;0.7946428571428572;0.8482142857142858;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln6)">
+<text x="46" y="410" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7EE787">$</text>
+<text x="73.6" y="410" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#C9D3DF">./run.sh --all</text>
+</g>
+<clipPath id="ln7"><rect x="46" y="418" width="0" height="24"><animate attributeName="width" values="0;845.8000000000001;845.8000000000001;0" keyTimes="0;0.9196428571428572;0.9732142857142858;1" dur="33.6s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#ln7)">
+<text x="64" y="436" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#A7F3D0">✓ 6 public repositories · 9 certificates · building in public</text>
+</g>
+<rect x="911.8000000000001" y="423" width="9" height="17" fill="#55D6FF" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.875;0.8839285714285715" dur="33.6s" repeatCount="indefinite"/><animate attributeName="fill" values="#55D6FF;#0A0D12;#55D6FF;#0A0D12;#55D6FF" dur="1.05s" repeatCount="indefinite"/></rect>
+</svg>
