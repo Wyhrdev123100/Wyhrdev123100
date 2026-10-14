@@ -24,7 +24,7 @@
 ## `~/about.md`
 
 <p align="center">
-  <sub>I'm Quách Hùng — a product-minded developer from Bắc Ninh, Vietnam.<br />
+  <sub>I'm Quách Hưng — a product-minded developer from Bắc Ninh, Vietnam.<br />
   I build web apps, terminal tooling and the infrastructure to ship them.<br /><br />
   <em>Tôi là Quách Hùng — lập trình viên tại Bắc Ninh. Tôi làm web app, công cụ terminal và hạ tầng để triển khai chúng.</em></sub>
 </p>
